@@ -1,4 +1,4 @@
-package com.uin.algorithm.uin.test;
+package com.uin.algorithm.test;
 
 /**
  * @author wanglufei

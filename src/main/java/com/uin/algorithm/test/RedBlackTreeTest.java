@@ -1,6 +1,7 @@
 package com.uin.algorithm.test;
 
-import com.uin.algorithm.tree.RedBlackTree;
+
+import com.uin.algorithm.tree.*;
 
 public class RedBlackTreeTest {
 

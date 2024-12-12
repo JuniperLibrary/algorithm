@@ -1,6 +1,6 @@
 package com.uin.algorithm.test;
 
-import com.uin.algorithm.linear.Queue;
+import com.uin.algorithm.linear.*;
 import com.uin.algorithm.tree.BinaryTree;
 
 public class BinaryTreeErgodicTest {

@@ -1,5 +1,6 @@
 package com.uin.algorithm.graph;
 
+import com.uin.algorithm.linear.*;
 import com.uin.algorithm.linear.Queue;
 import com.uin.algorithm.priority.IndexMinPriorityQueue;
 

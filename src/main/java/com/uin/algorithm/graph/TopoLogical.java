@@ -1,5 +1,6 @@
 package com.uin.algorithm.graph;
 
+import com.uin.algorithm.linear.*;
 import com.uin.algorithm.linear.Stack;
 
 public class TopoLogical {
@@ -23,7 +24,7 @@ public class TopoLogical {
     }
 
     //获取拓扑排序的所有顶点
-    public Stack<Integer>  order(){
+    public Stack<Integer> order(){
         return order;
     }
 }
